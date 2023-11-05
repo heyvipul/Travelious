@@ -3,7 +3,7 @@
 ## Description 
 As a 5-member team, we collaborated on the "Travelious" project, focusing on developing a user-friendly  website using web technologies. Our main objectives were responsive design, filtering, sorting, and search functionality. Additionally, we successfully made it a user-specific website. This experience allowed us to grow as front-end developers, create engaging user interfaces, and work effectively as a team.
 
-## Deployed link :  travelious-project.netlify.app/
+### Deployed link :  travelious-project.netlify.app/
 
 ### Tech Used
 - React
